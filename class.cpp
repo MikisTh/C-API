@@ -5,7 +5,7 @@ int main() {
   string nome = "Thiago";
   int idade = 25;
 
-count << "Nome:" << nome << endl
+cout << "Nome:" << nome << endl
       << "Idade:" << idade << endl;
 
 return 0;
